@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Doğukan Bozoğlu</h1>
-<h3 align="center">I :heart_eyes: PHP.</h3>
+<h3 align="center">I :heart_eyes: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></h3>
 
 <h3 align="left">İletişim:</h3>
 <p align="left">
