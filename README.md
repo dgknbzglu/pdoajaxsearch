@@ -1,6 +1,10 @@
 <h1 align="center">Merhaba 👋, ben Doğukan Bozoğlu</h1>
 <h3 align="center">I :heart_eyes: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></h3>
 
+<h3 align="left">Ekran Görüntüsü:</h3>
+<img src="https://user-images.githubusercontent.com/55700237/196696141-ed687057-8646-4930-87fb-c0dcae395e15.png">
+<hr>
+
 <h3 align="left">İletişim:</h3>
 <p align="left">
 <a href="https://codepen.io/dgknbzglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dgknbzglu" height="30" width="40" /></a>
